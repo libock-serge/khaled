@@ -1,0 +1,23 @@
+{
+  "greeting": "Yo",
+  "name": "DJ Khaled",
+  "greetingText": "La Stella de la nation",
+  "wishText": "",
+  "imagePath": "img/chaggy.jpeg",
+  "text1": "C'est la St Valentin! 🥳",
+  "textInChatBox": "Comment envoyer un studio de musique en France...",
+  "sendButtonLabel": "Envoyer",
+  "text2": "C'est ce que je comptais faire...",
+  "text3": "Puis j'ai laissé.",
+  "text4": "J'ai réalisé que bah,",
+  "text4Adjective": "j'ai pas l'argent 😅",
+  "text5Entry": "Mais comme",
+  "text5Content": "tu es spéciale",
+  "smiley": ":)",
+  "bigTextPart1": "Du",
+  "bigTextPart2": " Coup",
+  "wishHeading": "Bonne Saint Valentin, Tata Désirée",
+  "outroText": "Tu compte beaucoup pour moi 🐣",
+  "replayText": "Tu peux cliquer ici pour revoir à nouveau",
+  "outroSmiley": ":)"
+}
